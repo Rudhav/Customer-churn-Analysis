@@ -94,6 +94,9 @@ The Power BI dashboard includes:
 
  📷 Dashboard Preview
 
+ <img width="1184" height="669" alt="Screenshot 2026-02-03 105824" src="https://github.com/user-attachments/assets/e6df129b-9eac-42a4-9280-ac6cb2163503" />
+
+
 
  🚀 How to Use
 
