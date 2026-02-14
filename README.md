@@ -103,10 +103,3 @@ The Power BI dashboard includes:
 1. Download the `.pbix` file from this repository.
 2. Open it using Power BI Desktop.
 3. Explore the interactive dashboard and filters.
-
- 📌 Future Improvements
-
- Add predictive churn modeling using Python / Machine Learning
- Integrate SQL database connection
- Deploy dashboard to Power BI Service
- Add automated refresh
